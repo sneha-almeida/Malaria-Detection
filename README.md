@@ -13,3 +13,7 @@ Microscopic Image of the Paracitised Cell
 
 ![Paracitised Cell](https://github.com/sneha-almeida/Malaria-Detection/blob/main/C33P1thinF_IMG_20150619_115808a_cell_206.png)
 
+Graphic User Interface
+
+
+
