@@ -15,5 +15,6 @@ Microscopic Image of the Paracitised Cell
 
 Graphic User Interface
 
+![GUI](https://github.com/sneha-almeida/Malaria-Detection/blob/main/ss-1.PNG)
 
 
